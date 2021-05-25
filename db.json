@@ -1,0 +1,21 @@
+{
+    "vehicle": [
+      {
+        "id": 1,
+        "name": "1996 Honda Logo",
+        "plate": "ZI1303",
+        "description": "Find your new feline friend at this event.",
+        "carjam": "zi1303",
+        "make": "Honda",
+        "model": "Logo",
+        "year": 1996,
+        "colour": "red",
+        "bodyStyle": "Hatchback",
+        "vin": "7A88G880700007826",
+        "engineNo": "D13B-6012857",
+        "chassis": "GA3-1007826",
+        "cost": 400.00,
+        "salePrice": 1660.00
+      }
+    ]
+}
